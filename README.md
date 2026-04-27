@@ -12,7 +12,4 @@ I am a **Backend Engineer at [Careem](https://www.careem.com)** with 3 years of 
 - **Cloud/Infra:** AWS (S3, SageMaker, Lambda, CloudWatch), Terraform, Infracost
 - **Observability:** Dynatrace, Argus
 
-### 🔭 Current Open Source Focus
-- Contributing to **Infracost** to add support for **AWS SageMaker** cost estimation, helping teams predict high-end ML compute costs before deployment. [PR](https://github.com/infracost/infracost/pull/3502/changes).
-
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/muhammadahmed19)
